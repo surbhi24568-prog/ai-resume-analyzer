@@ -28,16 +28,3 @@ ai-resume-analyzer/
 └── requirements.txt        # Verified external packaging dependencies
 
 
-⚡ Features
-🔍 Search any song or artist (iTunes API)
-📈 Trending charts on launch
-🎧 Real audio streaming via YouTube
-▶️ Full controls — play, pause, next, previous, seek
-🖼️ Album artwork with dynamic color theming
-🔒 Background playback — works with screen off
-📱 Lock screen controls — play/pause/skip from lock screen
-📋 Queue — see all upcoming songs
-📝 Lyrics support (via LRCLIB)
-🫨 Haptic feedback on controls
-
-
