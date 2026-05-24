@@ -27,4 +27,4 @@ ai-resume-analyzer/
 ├── main.py                 # Core CLI runtime interface
 └── requirements.txt        # Verified external packaging dependencies
 
-
+# Features
